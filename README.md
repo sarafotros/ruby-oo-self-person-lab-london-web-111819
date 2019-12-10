@@ -23,7 +23,7 @@ To practice object oriented programming (OOP), you're going to create a Person c
 - Each instance of  class `Person` should start with eight happiness points
 - Each instance of  class `Person` should start with eight hygiene points
 - The happiness and hygiene points should be able to change, however the maximum and minimum points for both happiness and hygiene should be 10 and  0 respectively
-- The amount in the bank account should also be able to change, though it has no max or min.
+- The amount in the@ bank account should also be able to change, though it has no max or min.
 
 ##### Non-attribute defining instance methods
 
